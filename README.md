@@ -66,3 +66,4 @@ Este projeto faz parte da minha jornada de evolução técnica, ampliando minhas
 -Este projeto reforça minha transição estratégica para a área de tecnologia e integração de sistemas, agregando minha visão analítica de qualidade à construção de soluções.
 
 📩 Contato: agathaassumpcaoads@gmail.com
+
